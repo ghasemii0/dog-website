@@ -1,24 +1,12 @@
-h1 {
-  text-align: center;
-  font-size: 50px;
+.red-theme {
+  background-color: red;
+  color: white;
 }
-
-img {
-  max-width: 500px;
-  max-height: 300px;
-  width: 500px;
-  height: 400px;
+.green-theme {
+  background-color: green;
+  color: white;
 }
-
-p {
-  background-color: yellow;
-
-}
-
-h2 {
-  font-size: 20px;
-}
-
-ul {
-  line-height: 20px;
+.original-theme {
+  background-color: white;
+  color:black;
 }
